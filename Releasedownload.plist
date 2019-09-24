@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HZH1907/somenormalfile/raw/master/Release.ipa</string>
+					<string>https://mtl.alibaba-inc.com/oss/mupp/12046759/DerivedData/biubiuVPN/Build/Products/Release-iphoneos/biubiuVPN-Release.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.njh.biubiu.cn</string>
 				<key>bundle-version</key>
-				<string>11673154</string>
+				<string>12046759</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
