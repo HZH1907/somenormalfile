@@ -16,7 +16,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>com.riotgames.league.wildrift</key>
+				<key>bundle-identifier</key>
 				<string>com.njh.biubiu.cn</string>
 				<key>bundle-version</key>
 				<string>3256</string>
