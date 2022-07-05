@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://t.wss.ink/f/8q82m888dv1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://heyokj.top/pgxz/bjt.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://heyokj.top/pgxz/bjt.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ifmoc.ZhuiShuShenQi1</string>
+				<key>bundle-version</key>
+				<string>4.0.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>影视工厂</string>
+				<key>title</key>
+				<string>影视工厂 --关注公众号：【蜂窝实验室】可获取更多应用</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+
+
+
+
